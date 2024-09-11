@@ -1,0 +1,14 @@
+C:\Users\fkhor\VSProjects\TreasureHunter\TreasureHunter\bin\Debug\net8.0\TreasureHunter.exe
+C:\Users\fkhor\VSProjects\TreasureHunter\TreasureHunter\bin\Debug\net8.0\TreasureHunter.deps.json
+C:\Users\fkhor\VSProjects\TreasureHunter\TreasureHunter\bin\Debug\net8.0\TreasureHunter.runtimeconfig.json
+C:\Users\fkhor\VSProjects\TreasureHunter\TreasureHunter\bin\Debug\net8.0\TreasureHunter.dll
+C:\Users\fkhor\VSProjects\TreasureHunter\TreasureHunter\bin\Debug\net8.0\TreasureHunter.pdb
+C:\Users\fkhor\VSProjects\TreasureHunter\TreasureHunter\obj\Debug\net8.0\TreasureHunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fkhor\VSProjects\TreasureHunter\TreasureHunter\obj\Debug\net8.0\TreasureHunter.AssemblyInfoInputs.cache
+C:\Users\fkhor\VSProjects\TreasureHunter\TreasureHunter\obj\Debug\net8.0\TreasureHunter.AssemblyInfo.cs
+C:\Users\fkhor\VSProjects\TreasureHunter\TreasureHunter\obj\Debug\net8.0\TreasureHunter.csproj.CoreCompileInputs.cache
+C:\Users\fkhor\VSProjects\TreasureHunter\TreasureHunter\obj\Debug\net8.0\TreasureHunter.dll
+C:\Users\fkhor\VSProjects\TreasureHunter\TreasureHunter\obj\Debug\net8.0\refint\TreasureHunter.dll
+C:\Users\fkhor\VSProjects\TreasureHunter\TreasureHunter\obj\Debug\net8.0\TreasureHunter.pdb
+C:\Users\fkhor\VSProjects\TreasureHunter\TreasureHunter\obj\Debug\net8.0\TreasureHunter.genruntimeconfig.cache
+C:\Users\fkhor\VSProjects\TreasureHunter\TreasureHunter\obj\Debug\net8.0\ref\TreasureHunter.dll
